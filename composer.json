@@ -1,1 +1,9 @@
-
+{
+  "name": "gcb/cloud",
+  "description": "Multi Cloud Computing Runtime",
+  "version": "0.0.1",
+  "authors": [{
+    "name": "Thales Behrenz",
+    "email": "thales.behrenz@artpin.de"
+  }]
+}
